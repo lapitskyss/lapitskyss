@@ -6,7 +6,7 @@
 
 По любым предложениям можете писать на почту lapitskyss@gmail.com.
 
-[Резюме](https://raw.githubusercontent.com/lapitskyss/lapitskyss/main/cv.pdf)
+[Резюме](https://raw.githubusercontent.com/lapitskyss/lapitskyss/master/cv.pdf)
 
 ---
 
